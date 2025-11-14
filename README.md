@@ -217,7 +217,8 @@ function Decoder(bytes, port) {
 ```
 
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-11-13 at 11 45 22_b99c7873](https://github.com/user-attachments/assets/a3de0727-48f3-4442-aa00-cdb23c6ffd0d)
+![WhatsApp Image 2025-11-14 at 13 59 41_96ec5c3c](https://github.com/user-attachments/assets/0ab9c894-88be-4c19-8b24-3f4097f278e8)
+
 
 # OUTPUT:
 
